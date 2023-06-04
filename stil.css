@@ -1,0 +1,67 @@
+@charset "utf-8"
+/* CSS Document */
+h5{
+     color:green;
+     font-family: Constantia, "Lucida Bright", "DejaVu serif", Gorgia, "serif";
+     font-size: 15px;
+     line-height: 18px;
+     width: 600px;
+     background-color: blanchedalmond;
+     padding: 21px
+   }
+
+ol, ul, h5{
+     color:black;
+     font-family: Constantia, "Lucida Bright", "DejaVu serif", Gorgia, "serif";
+     font-size: 15px;
+     line-height: 18px;
+     width: 600px;
+     background-color: blanchedalmond;
+     padding: 21px;
+    }
+
+blockquote{
+      color:black;
+      font-family: Constantia, "Lucida Bright", "DejaVu serif", Gorgia, "serif";
+      font-size: 15px;
+      line-height: 18px;
+      width: 300px;
+      background-color: blanchedalmond;
+      padding: 21px;
+    }
+
+h1, h2, h3, h4 {
+      font-family: "Impact", Haettenschweiler, Frankli Gothic Bold, "Arial Black", "sans-serif";
+      color: antiquewhite;
+      line-height: 18px;
+      width: 360px;
+      background-color: blueviolet;
+      padding:21px;
+    }
+.pozadina{
+  background-image: url("dm/pozadina.jpg");
+}
+.drugapozadina{
+      background-image: url("dm/pozadina2.jpg");
+}
+a {
+        color:Black;
+        background-color:coral;
+        padding: 5px;
+        line-height:40px;
+        border:1px solid #000000;
+}
+
+img{
+  height:300px
+}
+video {
+  height:300px
+  }
+
+div{
+  background-color: rgba(255, 255, 255, 0.3);
+  padding: 15px;
+  margin: 30px;
+  width: 44%;
+}
